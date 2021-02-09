@@ -1,4 +1,4 @@
-<h1 align="center">Airbn b Clone</h3> 
+<h1 align="center">Airbnb Clone</h3> 
 <p> <a href="https://airbnb-clone-7b8b3.web.app/"><h3 align="center" >Live Site</h3></a>
 </p>
 
